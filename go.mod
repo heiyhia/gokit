@@ -1,4 +1,4 @@
-module github.com/go-kit/kit
+module github.com/heiyhia/gokit
 
 go 1.17
 
@@ -9,6 +9,7 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.9.1
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.8.1
 	github.com/casbin/casbin/v2 v2.37.0
+	github.com/go-kit/kit v0.9.0
 	github.com/go-kit/log v0.2.0
 	github.com/go-zookeeper/zk v1.0.2
 	github.com/golang-jwt/jwt/v4 v4.0.0
@@ -72,7 +73,9 @@ require (
 	github.com/mitchellh/mapstructure v1.4.2 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
+	github.com/nats-io/gnatsd v1.4.1 // indirect
 	github.com/nats-io/jwt/v2 v2.0.3 // indirect
+	github.com/nats-io/nats-server v1.4.1 // indirect
 	github.com/nats-io/nkeys v0.3.0 // indirect
 	github.com/nats-io/nuid v1.0.1 // indirect
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7 // indirect
@@ -80,6 +83,7 @@ require (
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.30.0 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
+	github.com/streadway/amqp v0.0.0-20190404075320-75d898a42a94 // indirect
 	go.etcd.io/etcd/api/v3 v3.5.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.7.0 // indirect

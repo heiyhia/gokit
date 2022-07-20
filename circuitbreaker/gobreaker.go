@@ -5,7 +5,7 @@ import (
 
 	"github.com/sony/gobreaker"
 
-	"github.com/go-kit/kit/endpoint"
+	"github.com/heiyhia/gokit/endpoint"
 )
 
 // Gobreaker returns an endpoint.Middleware that implements the circuit

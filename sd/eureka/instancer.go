@@ -5,8 +5,8 @@ import (
 
 	"github.com/hudl/fargo"
 
-	"github.com/go-kit/kit/sd"
-	"github.com/go-kit/kit/sd/internal/instance"
+	"github.com/heiyhia/gokit/sd"
+	"github.com/heiyhia/gokit/sd/internal/instance"
 	"github.com/go-kit/log"
 )
 

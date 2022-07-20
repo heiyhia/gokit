@@ -8,8 +8,8 @@ import (
 
 	"golang.org/x/time/rate"
 
-	"github.com/go-kit/kit/endpoint"
-	"github.com/go-kit/kit/ratelimit"
+	"github.com/heiyhia/gokit/endpoint"
+	"github.com/heiyhia/gokit/ratelimit"
 )
 
 var nopEndpoint = func(context.Context, interface{}) (interface{}, error) { return struct{}{}, nil }

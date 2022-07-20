@@ -5,7 +5,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/go-kit/kit/sd"
+	"github.com/heiyhia/gokit/sd"
 )
 
 // Cache keeps track of resource instances provided to it via Update method

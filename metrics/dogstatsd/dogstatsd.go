@@ -20,12 +20,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/go-kit/kit/metrics"
-	"github.com/go-kit/kit/metrics/generic"
-	"github.com/go-kit/kit/metrics/internal/lv"
-	"github.com/go-kit/kit/metrics/internal/ratemap"
-	"github.com/go-kit/kit/util/conn"
 	"github.com/go-kit/log"
+	"github.com/heiyhia/gokit/metrics"
+	"github.com/heiyhia/gokit/metrics/generic"
+	"github.com/heiyhia/gokit/metrics/internal/lv"
+	"github.com/heiyhia/gokit/metrics/internal/ratemap"
+	"github.com/heiyhia/gokit/util/conn"
 )
 
 // Dogstatsd receives metrics observations and forwards them to a DogStatsD

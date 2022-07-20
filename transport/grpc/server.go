@@ -6,8 +6,8 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
 
-	"github.com/go-kit/kit/endpoint"
-	"github.com/go-kit/kit/transport"
+	"github.com/heiyhia/gokit/endpoint"
+	"github.com/heiyhia/gokit/transport"
 	"github.com/go-kit/log"
 )
 

@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/go-kit/kit/endpoint"
-	"github.com/go-kit/kit/transport"
+	"github.com/heiyhia/gokit/endpoint"
+	"github.com/heiyhia/gokit/transport"
 	"github.com/go-kit/log"
 )
 

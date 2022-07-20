@@ -8,8 +8,8 @@ import (
 
 	"google.golang.org/grpc"
 
-	test "github.com/go-kit/kit/transport/grpc/_grpc_test"
-	"github.com/go-kit/kit/transport/grpc/_grpc_test/pb"
+	test "github.com/heiyhia/gokit/transport/grpc/_grpc_test"
+	"github.com/heiyhia/gokit/transport/grpc/_grpc_test/pb"
 )
 
 const (

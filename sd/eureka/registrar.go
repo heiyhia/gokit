@@ -8,7 +8,7 @@ import (
 
 	"github.com/hudl/fargo"
 
-	"github.com/go-kit/kit/sd"
+	"github.com/heiyhia/gokit/sd"
 	"github.com/go-kit/log"
 )
 
